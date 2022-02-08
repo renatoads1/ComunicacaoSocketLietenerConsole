@@ -1,0 +1,14 @@
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\ExemploTcpListener\ExemploTcpListener\bin\Debug\netcoreapp3.1\ExemploTcpListener.exe
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\ExemploTcpListener\ExemploTcpListener\bin\Debug\netcoreapp3.1\ExemploTcpListener.deps.json
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\ExemploTcpListener\ExemploTcpListener\bin\Debug\netcoreapp3.1\ExemploTcpListener.runtimeconfig.json
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\ExemploTcpListener\ExemploTcpListener\bin\Debug\netcoreapp3.1\ExemploTcpListener.runtimeconfig.dev.json
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\ExemploTcpListener\ExemploTcpListener\bin\Debug\netcoreapp3.1\ExemploTcpListener.dll
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\ExemploTcpListener\ExemploTcpListener\bin\Debug\netcoreapp3.1\ExemploTcpListener.pdb
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\ExemploTcpListener\ExemploTcpListener\obj\Debug\netcoreapp3.1\ExemploTcpListener.csproj.AssemblyReference.cache
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\ExemploTcpListener\ExemploTcpListener\obj\Debug\netcoreapp3.1\ExemploTcpListener.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\ExemploTcpListener\ExemploTcpListener\obj\Debug\netcoreapp3.1\ExemploTcpListener.AssemblyInfoInputs.cache
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\ExemploTcpListener\ExemploTcpListener\obj\Debug\netcoreapp3.1\ExemploTcpListener.AssemblyInfo.cs
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\ExemploTcpListener\ExemploTcpListener\obj\Debug\netcoreapp3.1\ExemploTcpListener.csproj.CoreCompileInputs.cache
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\ExemploTcpListener\ExemploTcpListener\obj\Debug\netcoreapp3.1\ExemploTcpListener.dll
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\ExemploTcpListener\ExemploTcpListener\obj\Debug\netcoreapp3.1\ExemploTcpListener.pdb
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\ExemploTcpListener\ExemploTcpListener\obj\Debug\netcoreapp3.1\ExemploTcpListener.genruntimeconfig.cache
